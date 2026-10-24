@@ -1,13 +1,13 @@
 # Old School PRs
 
-A Claude Code mod that brings back the old view of a session's pull requests:
-a pane beside the chat with every PR and branch the current session opened or
-pushed, and what each one needs right now.
+A Claude Code mod: a pane beside the chat with every PR and branch the current
+session opened or pushed, and what each one needs right now.
 
-The Code tab of the Claude desktop app lists a session's PRs at the bottom of
-its session rail, with no state. You cannot tell at a glance which PR has a
-conflict, which one has failing checks, and which one is ready to merge. This
-mod shows exactly that.
+The session rail of the Claude desktop app already lists the session's PRs in
+its Changes section, with their state shown by icon and color. This mod says
+the same in words (conflict, checks failed, behind main, ready to merge), puts
+what waits for you in the line under the prompt, and adds two lists: branches
+the session pushed without a PR, and all your open PRs across repositories.
 
 ## What it shows
 
