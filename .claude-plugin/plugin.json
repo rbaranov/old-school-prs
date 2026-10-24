@@ -1,0 +1,7 @@
+{
+  "name": "old-school-prs",
+  "version": "0.4.0",
+  "description": "A pane beside the chat: this session's PRs and branches, and what each one needs",
+  "author": { "name": "rbaranov" },
+  "types": "./types/index.d.ts"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "old-school-prs",
+  "description": "Old School PRs: this session's pull requests and branches, beside the chat",
+  "owner": { "name": "rbaranov" },
+  "plugins": [{ "name": "old-school-prs", "source": "./" }]
+}
